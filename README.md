@@ -7,3 +7,11 @@
 - 👯 I’m looking to collaborate on FullStack Development
 - 🤔 I’m looking for help with Microservice, DevOps
 - 💬 Ask me about any tech related stuff
+
+
+### Social Networks
+[<img align="left" alt="sajid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sajid | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
