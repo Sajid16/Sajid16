@@ -2,7 +2,7 @@
 
 ### I've been working as a Software Engineer since 1st November 2018. I'm experienced in full stack Web Application Development. Currently...
 - 💼 Working as Software Engineer at [ERA Infotech Limited](http://www.erainfotechbd.com/)
-- 👨🏻‍💻 Working on [django](https://www.django-rest-framework.org/), [node.js](https://nodejs.org/en/), [ASP.NET Core](https://dotnet.microsoft.com/), [Angular](https://angular.io/)
+- 👨🏻‍💻 Working on [node.js](https://nodejs.org/en/), [ASP.NET Core](https://dotnet.microsoft.com/), [Angular](https://angular.io/)
 - 🌱 Learning vastly [Angular](https://angular.io/), [ASP.NET Core](https://dotnet.microsoft.com/)
 - 👯 I’m looking to collaborate on FullStack Development
 - 🤔 I’m looking for help with Microservice, DevOps
