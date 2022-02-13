@@ -10,7 +10,7 @@
 
 
 ### Social Networks
-[<img align="left" alt="sajid-mahboob-91bb55133 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="sajid-mahboob-91bb55133 | LinkedIn" width="22px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png"/>][linkedin]
 
 
 <p>&nbsp;</p>
