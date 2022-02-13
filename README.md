@@ -1,6 +1,6 @@
 ## Hi, I'm Syed Sajid Mahboob 👋
 
-### I've been working as a Software Engineer since 1st November 2018. I'm experienced in full stack Web Application Development. Currently...
+### I've been working as a Software Engineer since 1st December 2018. I'm experienced in full stack Web Application Development. Currently...
 - 💼 Working as Software Engineer at [ERA Infotech Limited](http://www.erainfotechbd.com/)
 - 👨🏻‍💻 Working on [node.js](https://nodejs.org/en/), [ASP.NET Core](https://dotnet.microsoft.com/), [Angular](https://angular.io/)
 - 🌱 Learning vastly [Angular](https://angular.io/), [ASP.NET Core](https://dotnet.microsoft.com/)
