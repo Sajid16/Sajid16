@@ -1,8 +1,8 @@
 ## Hi, I'm Syed Sajid Mahboob 👋
 
 ### I've been working as a Software Engineer since 1st December 2018. I'm experienced in full stack Web Application Development. Currently...
-- 💼 Working as Software Engineer at [ERA Infotech Limited](http://www.erainfotechbd.com/)
-- 👨🏻‍💻 Working on [node.js](https://nodejs.org/en/), [ASP.NET Core](https://dotnet.microsoft.com/), [Angular](https://angular.io/)
+- 💼 Working as Software Engineer at [Brain Station 23](https://brainstation-23.com/?ba)
+- 👨🏻‍💻 Working on [ASP.NET Core](https://dotnet.microsoft.com/), [Angular](https://angular.io/), [node.js](https://nodejs.org/en/)
 - 🌱 Learning vastly [Angular](https://angular.io/), [ASP.NET Core](https://dotnet.microsoft.com/)
 - 👯 I’m looking to collaborate on FullStack Development
 - 🤔 I’m looking for help with Microservice, DevOps
